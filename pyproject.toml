@@ -1,6 +1,6 @@
 [project]
 name = "declarative-tkinter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A declarative approach to building Tkinter interfaces."
 authors = [{ name = "looksky495", email = "looksky603@gmail.com" }]
 license = "MIT"
